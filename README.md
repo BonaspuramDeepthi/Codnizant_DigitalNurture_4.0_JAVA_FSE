@@ -1,1 +1,1 @@
-it contains ANSI SQL USING MY SQL files
+it contains core java files
